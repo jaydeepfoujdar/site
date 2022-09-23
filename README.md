@@ -1,6 +1,6 @@
 
 <h1 align="center">
-vedang.dev
+Jaydeep.dev
 </h1>
 
 
