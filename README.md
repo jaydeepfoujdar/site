@@ -1,12 +1,8 @@
-<div align="center">
-  <img alt="Logo" src="https://avatars.githubusercontent.com/u/43764240?s=400&u=3add664d5ff68358f4442dd94b0b1a82291673e8&v=4" width="100" />
-</div>
+
 <h1 align="center">
 vedang.dev
 </h1>
-<p align="center">
-  <a href="https://vedang.dev" target="_blank">vedang.dev</a>
-</p>
+
 
 ## 🛠 Installation & Set Up
 
